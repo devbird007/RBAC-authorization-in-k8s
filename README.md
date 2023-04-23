@@ -1,5 +1,5 @@
 # RBAC-authorization-in-k8s
-This contains a couple of examples demonstrating how to manage users and group
+This repository contains a couple of examples demonstrating how to manage users and group
 access to kubernetes resources with RBAC.
 You can create the following components
 * Role: This defines access permissions within a namespace in a cluster.
